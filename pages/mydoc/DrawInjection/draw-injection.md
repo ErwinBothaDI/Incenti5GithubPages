@@ -9,7 +9,7 @@ folder: mydoc/DrawInjection
 
 The automatic draw injection allows the user to generate tickets to be claimed remotely, this can be done for multiple customers in a batch or for a single customer account. 
 
-<img src="\img\DrawInjection\DrawInjection.png" alt="">
+<img src="https://erwinbothadi.github.io/img/DrawInjection/DrawInjection.png" alt="">
 
 Tickets can be injected into a single account by using the customer account number.
 
