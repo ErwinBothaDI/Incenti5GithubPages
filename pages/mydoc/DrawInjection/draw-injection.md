@@ -13,8 +13,8 @@ The automatic draw injection allows the user to generate tickets to be claimed r
 
 Tickets can be injected into a single account by using the customer account number.
 
-<img src="../../../img/DrawInjection/DrawInjectionSingle.png" alt="">
+<img src="./img/DrawInjection/DrawInjectionSingle.png" alt="">
 
 Tickets can be injected into multiple accounts by uploading a CSV file containing the desired account numbers. 
 
-<img src="../../../img/DrawInjection/DrawInjection/DrawInjectionBatch.png" alt="">
+<img src="./img/DrawInjection/DrawInjection/DrawInjectionBatch.png" alt="">
