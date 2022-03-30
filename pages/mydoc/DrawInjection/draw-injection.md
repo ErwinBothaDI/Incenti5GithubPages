@@ -17,4 +17,4 @@ Tickets can be injected into a single account by using the customer account numb
 
 Tickets can be injected into multiple accounts by uploading a CSV file containing the desired account numbers. 
 
-<img src="./img/DrawInjection/DrawInjection/DrawInjectionBatch.png" alt="">
+<img src="./img/DrawInjection/DrawInjectionBatch.png" alt="">

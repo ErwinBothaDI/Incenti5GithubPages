@@ -9,4 +9,4 @@ folder: mydoc/Voucher
 
 Here we can define the cost/worth of the voucher. We are also able to limit the voucher by the amount of available vouchers. 
 
-<img src="\img\Promotions\VoucherOptions.png" alt="">
+<img src="./img/Promotions/VoucherOptions.png" alt="">
